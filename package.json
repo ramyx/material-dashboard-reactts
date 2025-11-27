@@ -21,7 +21,7 @@
     "react-dom": "16.8.1",
     "react-google-maps": "9.4.5",
     "react-router-dom": "4.3.1",
-    "react-scripts": "2.1.5",
+    "react-scripts": "5.0.1",
     "react-swipeable-views": "0.13.1",
     "tslint": "^5.17.0",
     "tslint-react": "^4.0.0",
